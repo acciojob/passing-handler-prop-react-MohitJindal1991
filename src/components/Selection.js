@@ -21,7 +21,7 @@ function Selection({ ele, applyColor }) {
         fontWeight: "bold",
       }}
     >
-      {ele}
+      Selection
     </div>
   );
 }
